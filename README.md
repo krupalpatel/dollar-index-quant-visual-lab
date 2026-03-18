@@ -6,10 +6,15 @@ This dataset contains daily historical data for the US Dollar Index (DXY) starti
 Fields Included:
 
 Date — Trading date
+
 Open — Opening price
+
 High — Highest price
+
 Low — Lowest price
+
 Close — Closing price
+
 Volume — Trading volume
 
 Coverage:
@@ -18,8 +23,13 @@ Coverage:
 Potential Research Applications:
 
 • Foreign exchange market analysis
+
 • Volatility regime detection
+
 • Quantitative macro research
+
 • Financial time-series modeling
+
 • Currency risk analysis
+
 • Data visualization experiments
