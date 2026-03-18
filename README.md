@@ -17,8 +17,7 @@ Close — Closing price
 
 Volume — Trading volume
 
-Coverage:
-2000 – Present
+## Coverage:2000 – Present
 
 Potential Research Applications:
 
