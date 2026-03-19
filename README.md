@@ -5,17 +5,17 @@ This dataset contains daily historical data for the US Dollar Index (DXY) starti
 
 Fields Included:
 
-Date — Trading date
+* Date — Trading date
 
-Open — Opening price
+* Open — Opening price
 
-High — Highest price
+* High — Highest price
 
-Low — Lowest price
+* Low — Lowest price
 
-Close — Closing price
+* Close — Closing price
 
-Volume — Trading volume
+* Volume — Trading volume
 
 ## Coverage:2000 – Present
 
